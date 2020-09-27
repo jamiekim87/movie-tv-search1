@@ -1,4 +1,4 @@
-import React from { useState } 'react'
+import React, { useState } from 'react'
 
 const Home = () => {
 
