@@ -1,4 +1,4 @@
-const router = requre('express').Router()
+const router = require('express').Router()
 const axios = require('axios')
 const { Media } = require('../models')
 
